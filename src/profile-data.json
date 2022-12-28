@@ -1,0 +1,748 @@
+{
+    "title": "Narain Menghwar",
+    "description": "All things Javascript/Typescript specialist. Principally Web Applications Engineer — Single Page Applications, Backend REST-APIs and Frontend UI/UX architect. <br/><i>Open & actively seeking relocation roles (with visa sponsorship support) preferably in Germany (Berlin).</i>",
+    "contact": {
+        "title": "Contact Information",
+        "value": [
+            {
+                "title": "First Name",
+                "value": "Narain",
+                "display": false
+            },
+            {
+                "title": "Last Name",
+                "value": "Menghwar",
+                "display": false
+            },
+            {
+                "title": "Email Address",
+                "value": "narainmenghwar@gmail.com",
+                "display": true
+            },
+            {
+                "title": "Phone Number",
+                "value": "+39 (351) 773 3553",
+                "display": true
+            },
+            {
+                "title": "Nationality",
+                "value": "Pakistan",
+                "display": true
+            },
+            {
+                "title": "Marital Status",
+                "value": "Single",
+                "display": false
+            },
+            {
+                "title": "Date of Birth",
+                "value": "25.12.1992",
+                "display": true
+            },
+            {
+                "title": "Address",
+                "value": "Piazza Cairoli, 48 - Velletri RM (00049)",
+                "display": true
+            },
+            {
+                "title": "Current Location",
+                "value": "Rome, ITALY",
+                "display": true
+            }
+        ]
+    },
+    "links": {
+        "social": {
+            "title": "Social Links",
+            "linkedin": {
+                "title": "LinkedIn",
+                "value": "https://www.linkedin.com/in/narainsagar"
+            },
+            "github": {
+                "title": "GitHub",
+                "value": "https://github.com/narainsagar"
+            },
+            "stackoverflow": {
+                "title": "Stackoverflow",
+                "value": "https://stackoverflow.com/users/5228251"
+            }
+        },
+        "additional": {
+            "title": "Additional / Supporting Links",
+            "website": {
+                "title": "Website",
+                "value": "https://narainsagar.github.io"
+            },
+            "blog": {
+                "title": "Blog",
+                "value": "https://medium.com/narainsagar"
+            },
+            "upwork": {
+                "title": "Upwork Profile",
+                "value": "https://www.upwork.com/workwith/narains"
+            },
+            "calendly": {
+                "title": "Calendly",
+                "value": "https://calendly.com/narainsagar"
+            },
+            "portfolios": {
+                "title": "Portfolios / Projects",
+                "value": "https://bit.ly/3ibu1LC"
+            },
+            "sampleCodesDemos": {
+                "title": "Code Samples / Live Demos",
+                "value": "https://bit.ly/3CEqVt4"
+            },
+            "resume": {
+                "title": "Resume / CV",
+                "value": "http://CV_Narain.pdf"
+            }
+        }
+    },
+    "education": {
+        "title": "Education Summary",
+        "value": [
+            {
+                "value": [
+                    {
+                        "title": "Degree",
+                        "value": "Master's Degree",
+                        "display": true
+                    },
+                    {
+                        "title": "School / University",
+                        "value": "Università del Salento",
+                        "display": true
+                    },
+                    {
+                        "title": "Website",
+                        "value": "http://unisalento.it",
+                        "display": false
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Lecce, Italy",
+                        "display": false
+                    },
+                    {
+                        "title": "Major/Field of Study",
+                        "value": "Computer Engineering",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "September 2019",
+                        "display": false
+                    },
+                    {
+                        "title": "End date",
+                        "value": "",
+                        "display": false
+                    },
+                    {
+                        "title": "Graduated/Completed",
+                        "value": false,
+                        "display": true
+                    },
+                    {
+                        "title": "Status",
+                        "value": "On Hold",
+                        "display": false
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Degree",
+                        "value": "Bachelor's Degree",
+                        "display": true
+                    },
+                    {
+                        "title": "School / University",
+                        "value": "National University of Computer and Emerging Sciences (NUCES-FAST)",
+                        "display": true
+                    },
+                    {
+                        "title": "Website",
+                        "value": "http://nu.edu.pk",
+                        "display": false
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Karachi, Pakistan",
+                        "display": true
+                    },
+                    {
+                        "title": "Major/Field of Study",
+                        "value": "Computer Science",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "September 2011",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "August 2015",
+                        "display": true
+                    },
+                    {
+                        "title": "Graduated/Completed",
+                        "value": true,
+                        "display": true
+                    },
+                    {
+                        "title": "Status",
+                        "value": "Completed",
+                        "display": false
+                    }
+                ]
+            }
+        ]
+    },
+    "awards": {
+        "title": "Awards",
+        "value": "National ICT Scholarship program winner - 4 years fully funded scholarship program awarded and funded by <i>'Prime Minister - Government of Pakistan'</i> to study at <i>FAST-NUCES university</i>."
+    },
+    "skills": {
+        "title": "Skills",
+        "value": [
+            "Agile Methodologies",
+            "Agile Project Management",
+            "Amazon Web Services (AWS)",
+            "API Development",
+            "Automated Software Testing",
+            "Angular",
+            "Back-End Web Development",
+            "Bootstrap",
+            "Material Design",
+            "C/C++ (Programming Language)",
+            "Continuous Delivery",
+            "Continuous Integration and Continuous Delivery (CI/CD)",
+            "Databases",
+            "DevOps",
+            "Docker",
+            "Django REST Framework (Python)",
+            "Flask (Python) Framework",
+            "Front-end Development",
+            "Full-Stack Development",
+            "HTML",
+            "HTML5",
+            "IT Security Assessments",
+            "Java (Programming Language)",
+            "Javascript (Programming Language)",
+            "jQuery",
+            "Laravel (PHP Framework)",
+            "Material-UI",
+            "Mean Stack",
+            "MERN Stack",
+            "Microservices",
+            "Mobile Application Development",
+            "MongoDB",
+            "MySQL",
+            "Network Security",
+            "Node.js",
+            "Object Oriented Programming (OOP)",
+            "Oracle Database",
+            "SQL",
+            "OWASP",
+            "PHP (Programming Language)",
+            "PostgreSQL",
+            "Functional Programming",
+            "Design Patterns",
+            "Python (Programming Language)",
+            "React.js",
+            "CSS",
+            "CSS3",
+            "SASS",
+            "Ionic Framework",
+            "Scrum",
+            "Secure Coding",
+            "Security Testing",
+            "Single Page Applications (SPAs)",
+            "Software Development",
+            "Software Development Security",
+            "Software Testing",
+            "TypeScript (Programming Language)",
+            "Vulnerability Management",
+            "Web Development"
+        ]
+    },
+    "languages": {
+        "title": "Languages Spoken",
+        "value": [
+            {
+                "value": [
+                    {
+                        "title": "Language",
+                        "value": "English"
+                    },
+                    {
+                        "title": "Proficieny",
+                        "value": "Fluent"
+                    },
+                    {
+                        "title": "Preferred?",
+                        "value": true,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Language",
+                        "value": "Italian"
+                    },
+                    {
+                        "title": "Proficieny",
+                        "value": "Intermediate"
+                    },
+                    {
+                        "title": "Preferred?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Language",
+                        "value": "German"
+                    },
+                    {
+                        "title": "Proficieny",
+                        "value": "Basic"
+                    },
+                    {
+                        "title": "Preferred?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Language",
+                        "value": "Urdu / Hindi"
+                    },
+                    {
+                        "title": "Proficieny",
+                        "value": "Native"
+                    },
+                    {
+                        "title": "Preferred?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            }
+        ]
+    },
+    "employment": {
+        "title": "Employment Summary",
+        "value": [
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Drop srls",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Principal Software Engineer",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Rome, Italy",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "June 2022",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "",
+                        "display": false
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": true,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Novartis, CZ",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Senior Web/UI Developer",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Remote",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "June 2022",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "November 2022",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Artemide",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Software Engineer (Internship)",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Bari, Italy",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "October 2021",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "December 2021",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Qi4M srl",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Software Engineer",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Remote",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "August 2020",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "January 2021",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Self-employed / Freelance contractor",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Full Stack / Tech Consultant",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Hybrid",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Remote",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "November 2019",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "April 2022",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Dot & Line Centres",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Full stack Tech Lead",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Hybrid",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Karachi, Pakistan",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "July 2019",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "December 2019",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "SweepWidget",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Sr. Full stack Developer",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Hybrid",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Remote",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "April 2018",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "March 2019",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "MarketLytics / Recurship",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Sr. Application Developer",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Karachi, Pakistan",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "June 2015",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "March 2018",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            },
+            {
+                "employer": "Winson Technologies",
+                "current": false,
+                "remote": false,
+                "type": "Full Time",
+                "title": "Software Engineer (Internship)",
+                "location": "Karachi, Pakistan",
+                "startDate": "June 2014",
+                "endDate": "October 2014",
+                "value": [
+                    {
+                        "title": "Employer",
+                        "value": "Winson Technologies",
+                        "display": true
+                    },
+                    {
+                        "title": "Job Title",
+                        "value": "Software Engineer (Internship)",
+                        "display": true
+                    },
+                    {
+                        "title": "Type",
+                        "value": "Full Time",
+                        "display": true
+                    },
+                    {
+                        "title": "Location",
+                        "value": "Karachi, Pakistan",
+                        "display": true
+                    },
+                    {
+                        "title": "Start date",
+                        "value": "June 2014",
+                        "display": true
+                    },
+                    {
+                        "title": "End date",
+                        "value": "October 2014",
+                        "display": true
+                    },
+                    {
+                        "title": "Current Employer?",
+                        "value": false,
+                        "display": true
+                    }
+                ]
+            }
+        ]
+    },
+    "employmentPreference": {
+        "title": "Employment Preferences",
+        "value": "Full Time",
+        "options": [
+            "Full Time",
+            "Hybrid",
+            "On Site"
+        ]
+    },
+    "mobility": {
+        "title": "Mobility Preferences",
+        "value": [
+            {
+                "title": "Willing to travel?",
+                "value": true
+            },
+            {
+                "title": "Willing to relocate?",
+                "value": true
+            },
+            {
+                "title": "Preferred Locations",
+                "value": "Germany, Sweden"
+            },
+            {
+                "title": "Require Visa Sponsorship?",
+                "value": true
+            },
+            {
+                "title": "Remote Availability?",
+                "value": true
+            },
+            {
+                "title": "Availability / Notice Period",
+                "value": "1 month"
+            }
+        ]
+    }
+}
